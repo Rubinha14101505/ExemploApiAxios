@@ -1,7 +1,24 @@
 {
-    "users" : [
-        {"id" : 1, "name": "Alice", "email": "alice@gmail.com"},
-        {"id" : 2, "name": "Ana", "email": "ana@gmail.com"},
-        {"id" : 3, "name": "João", "email": "joao@gmail.com"}
-    ]
+  "users": [
+    {
+      "id": "1",
+      "name": "Alice",
+      "email": "alice@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "Ana",
+      "email": "ana@gmail.com"
+    },
+    {
+      "id": "3",
+      "name": "João",
+      "email": "joao@gmail.com"
+    },
+    {
+      "id": "4ca2",
+      "name": "Ana",
+      "email": "Aninha@gmail.com"
+    }
+  ]
 }
