@@ -1,14 +1,6 @@
 {
   "appointments": [
     {
-      "title": "Atividade Maurício ",
-      "notes": "Axios Agenda",
-      "date": "2025-09-19",
-      "time": "20:00",
-      "status": "agendado",
-      "id": "56c5"
-    },
-    {
       "title": "Atividade Paulo",
       "notes": "Bla bla",
       "date": "2025-09-29",
@@ -22,7 +14,7 @@
       "notes": "SpringBoot",
       "date": "2025-09-17",
       "time": "20:23",
-      "status": "pendente"
+      "status": "concluído"
     }
   ]
 }
